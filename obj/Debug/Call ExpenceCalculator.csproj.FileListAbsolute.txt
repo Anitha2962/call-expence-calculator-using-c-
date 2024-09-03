@@ -1,0 +1,7 @@
+D:\EQ SOFT\C#\Call ExpenceCalculator\bin\Debug\Call ExpenceCalculator.exe.config
+D:\EQ SOFT\C#\Call ExpenceCalculator\bin\Debug\Call ExpenceCalculator.exe
+D:\EQ SOFT\C#\Call ExpenceCalculator\bin\Debug\Call ExpenceCalculator.pdb
+D:\EQ SOFT\C#\Call ExpenceCalculator\obj\Debug\Call ExpenceCalculator.csproj.AssemblyReference.cache
+D:\EQ SOFT\C#\Call ExpenceCalculator\obj\Debug\Call ExpenceCalculator.csproj.CoreCompileInputs.cache
+D:\EQ SOFT\C#\Call ExpenceCalculator\obj\Debug\Call ExpenceCalculator.exe
+D:\EQ SOFT\C#\Call ExpenceCalculator\obj\Debug\Call ExpenceCalculator.pdb
